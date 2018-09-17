@@ -1,4 +1,4 @@
-Ivor
+# Ivor - Changed with Rich
 
 1. Download and install VirtualBox and Vagrant
 2. Run VirtualBox
